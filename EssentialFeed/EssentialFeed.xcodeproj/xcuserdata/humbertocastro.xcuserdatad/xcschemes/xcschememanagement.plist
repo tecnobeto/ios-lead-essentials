@@ -9,6 +9,26 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>EssentialFeedTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2DF4CB83295BC36D00B3812D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2DF4CB8D295BC36D00B3812D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
